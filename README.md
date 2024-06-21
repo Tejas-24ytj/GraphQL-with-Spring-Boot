@@ -24,14 +24,6 @@ type Query {
     hello: String
 }
 
-### 3. Access the application
-
-http://localhost:8080/graphiql to access the GraphiQL interface. 
-
-
-
-
-
 
 
 
